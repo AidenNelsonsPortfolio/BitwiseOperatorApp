@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/BitwiseOperatorApp/static/css/main.1df4b09e.css",
-    "main.js": "/BitwiseOperatorApp/static/js/main.22068aab.js",
+    "main.css": "/BitwiseOperatorApp/static/css/main.6607f532.css",
+    "main.js": "/BitwiseOperatorApp/static/js/main.39fa8e40.js",
     "static/js/787.11eb73c6.chunk.js": "/BitwiseOperatorApp/static/js/787.11eb73c6.chunk.js",
+    "static/media/light-gray-background.jpg": "/BitwiseOperatorApp/static/media/light-gray-background.73a9d3184bf2e702f93c.jpg",
     "index.html": "/BitwiseOperatorApp/index.html",
-    "main.1df4b09e.css.map": "/BitwiseOperatorApp/static/css/main.1df4b09e.css.map",
-    "main.22068aab.js.map": "/BitwiseOperatorApp/static/js/main.22068aab.js.map",
+    "main.6607f532.css.map": "/BitwiseOperatorApp/static/css/main.6607f532.css.map",
+    "main.39fa8e40.js.map": "/BitwiseOperatorApp/static/js/main.39fa8e40.js.map",
     "787.11eb73c6.chunk.js.map": "/BitwiseOperatorApp/static/js/787.11eb73c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1df4b09e.css",
-    "static/js/main.22068aab.js"
+    "static/css/main.6607f532.css",
+    "static/js/main.39fa8e40.js"
   ]
 }
