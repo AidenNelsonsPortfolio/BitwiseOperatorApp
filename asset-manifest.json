@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BitwiseOperatorApp/static/css/main.a8a5c8ef.css",
-    "main.js": "/BitwiseOperatorApp/static/js/main.fb680923.js",
+    "main.css": "/BitwiseOperatorApp/static/css/main.1df4b09e.css",
+    "main.js": "/BitwiseOperatorApp/static/js/main.22068aab.js",
     "static/js/787.11eb73c6.chunk.js": "/BitwiseOperatorApp/static/js/787.11eb73c6.chunk.js",
     "index.html": "/BitwiseOperatorApp/index.html",
-    "main.a8a5c8ef.css.map": "/BitwiseOperatorApp/static/css/main.a8a5c8ef.css.map",
-    "main.fb680923.js.map": "/BitwiseOperatorApp/static/js/main.fb680923.js.map",
+    "main.1df4b09e.css.map": "/BitwiseOperatorApp/static/css/main.1df4b09e.css.map",
+    "main.22068aab.js.map": "/BitwiseOperatorApp/static/js/main.22068aab.js.map",
     "787.11eb73c6.chunk.js.map": "/BitwiseOperatorApp/static/js/787.11eb73c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8a5c8ef.css",
-    "static/js/main.fb680923.js"
+    "static/css/main.1df4b09e.css",
+    "static/js/main.22068aab.js"
   ]
 }
