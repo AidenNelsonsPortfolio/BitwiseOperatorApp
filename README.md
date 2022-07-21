@@ -23,4 +23,6 @@ but if they are different (1, 0, or 0, 1), the result's bit is set to 1.
 Have fun, I hope this helps you to learn more about bitwise operators and their use!
 
 Author: Aiden Nelson
+
+
 Date of Last Edit: 7/21/2022
