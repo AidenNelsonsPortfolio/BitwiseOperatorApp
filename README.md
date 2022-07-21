@@ -1,7 +1,7 @@
 # BitwiseOperatorApp
-My React JS Application that demonstrates all bitwise operators available for one or two numbers (all interactive).
+This is a React JS Application that demonstrates visually bitwise operators available for one or two numbers (all interactive).
 
-View the project here: https://aidennelsonsportfolio.github.io/BitwiseOperatorApp/
+View (and test) the project here: https://aidennelsonsportfolio.github.io/BitwiseOperatorApp/
 
 ![image](https://user-images.githubusercontent.com/104726926/180315428-11ae1834-fc04-4d39-b308-f6997a143a20.png)
 
