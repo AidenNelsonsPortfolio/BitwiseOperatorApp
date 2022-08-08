@@ -1,5 +1,5 @@
 # BitwiseOperatorApp
-This is a React JS Application that demonstrates visually bitwise operators available for one or two numbers (all interactive).
+This is a React JS Application that visually demonstrates bitwise operators available for one or two numbers (all interactive with user input values).
 
 View (and test) the project here: https://aidennelsonsportfolio.github.io/BitwiseOperatorApp/
 
